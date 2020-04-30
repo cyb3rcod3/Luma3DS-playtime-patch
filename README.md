@@ -27,4 +27,5 @@ Now you have your modded and compiled Luma3DS/boot.firm to copy in the root of S
 Power on 3DS with (select + Power) to set the playtime countdown in the menù.  
 Use (L+down+select)rosalina->miscellaneous->disable_time_limit for disable timer in game.
 
-Testet with (old)3DS fimrware 11.13.0 + Luma3DS-10.1.3.
+Tested with (old)3DS fimrware 11.13.0 + Luma3DS-10.1.3.
+
