@@ -23,5 +23,5 @@ Prerequisites for compile Luma3DS: (git, makerom in PATH, firmtool ,Up-to-date d
 :~# make
 ```
 
-Now you have your modded and compiled Luma3DS-10.1.3/boot.firm to copy in the root of SD card.
+Now you have your modded and compiled Luma3DS/boot.firm to copy in the root of SD card.
 Testet with (old)3DS fimrware 11.3 and boot9strap 1.91.
