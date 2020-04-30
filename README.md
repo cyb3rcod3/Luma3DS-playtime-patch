@@ -1,4 +1,4 @@
-# Luma3DS-playtime-patch
+# Luma3DS playtime patch
 Add a timer mechanism to Luma3DS for limit child's playtime
 
 1) Download source code of Luma3DS-10.1.3 from internet:
